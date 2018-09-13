@@ -1,0 +1,7 @@
+https://blog.csdn.net/u012072580/article/details/53837652?utm_source=itdadao&utm_medium=referral
+
+
+xcodebuild archive -workspace HelloCordova.xcworkspace -scheme HelloCordova -archivePath /billwang/Project/helloworld/platforms/ios/HelloCordova.xcarchive
+
+
+xcodebuild clean -workspace HelloCordova.xcworkspace -scheme HelloCworld -configuration Release
